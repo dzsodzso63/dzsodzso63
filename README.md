@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **dzsodzso63/dzsodzso63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Dzso
+## Hi, I'm Dzso
 
 Senior full-stack engineer with a focus on TypeScript and Django.  
 I work on distributed backend services, API design, authentication flows, and modern React frontends. I value clean architecture, predictable systems, and developer-friendly tooling.
