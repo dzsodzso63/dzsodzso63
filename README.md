@@ -1,18 +1,3 @@
-<!--
-**dzsodzso63/dzsodzso63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi, I'm Dzso
 
 Senior full-stack engineer with a focus on TypeScript and Django.  
@@ -36,3 +21,11 @@ I work on distributed backend services, API design, authentication flows, and mo
 - **fl-ot-django-auth** – OAuth-based authentication flow in Django  
 - **fl-react-components** – Typed internal React component library  
 - **printernet-tools** – Developer utilities and infrastructure tooling
+
+## Homepage
+
+https://dzsodzso63.github.io/
+
+## How to reach me
+
+https://www.linkedin.com/in/jpengo/
